@@ -14,7 +14,7 @@
         </b-row>
 
         <b-row align-h="center" align-v="center" class="padding">
-            <b-col sm="12" md="4">
+            <b-col sm="12" md="4" style="padding-bottom: 15px">
                 <div class="card" >
                   <img src="../assets/home.jpg" class="card-img-top" width="10%" alt="...">
                     <div class="card-body">
@@ -29,7 +29,7 @@
                     </div>
                 </div>
             </b-col>
-            <b-col sm="12" md="4">
+            <b-col sm="12" md="4" style="padding-bottom: 15px">
                 <div class="card" >
                   <img src="../assets/home.jpg" class="card-img-top" width="10%" alt="...">
                     <div class="card-body">
@@ -69,6 +69,5 @@ export default {
 </script>
 
 <style scoped>
-    
 
 </style>
