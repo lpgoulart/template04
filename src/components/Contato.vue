@@ -5,7 +5,7 @@
                 <h2 >
                     Preencha o formulário de contato abaixo
                 </h2>
-                <!-- <i class="fas fa-arrow-down arrow"></i> -->
+                <i class="fas fa-arrow-down arrow"></i>
                 <!-- <i class="fas fa-paint-roller arrow"></i> -->
             </b-col>
         </b-row>

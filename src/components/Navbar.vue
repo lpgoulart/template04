@@ -4,7 +4,7 @@
             <div class="container text-center">
 
                 <b-navbar-brand href="#/" style="padding: 0">
-                    <img src="../assets/logo.png" class="img-fluid" width="100" height="100" alt="logo">
+                    <img src="../assets/logo.png" class="img-fluid" width="70" height="70" alt="logo">
                 </b-navbar-brand>
 
                 <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>

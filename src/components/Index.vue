@@ -71,7 +71,7 @@ export default {
   padding: 32px;
 
   animation-name: navigation;
-  animation-duration:5s;
+  animation-duration:60s;
   animation-iteration-count: infinite;
 }
 

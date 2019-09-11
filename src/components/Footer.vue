@@ -124,7 +124,7 @@
                     </b-col>
                     <b-col sm="12" md="6" class="text-right" style="padding: 15px 20px 15px 20px">
                         <p> 
-                            Desenvolvido por <a href="https://lpgoulart.netlify.com">Lpgoulart</a>
+                            Desenvolvido por <a style="color:cyan" target="_blank" href="https://lpgoulart.netlify.com">Lpgoulart</a>
                         </p>
                     </b-col>
                 </b-row>
