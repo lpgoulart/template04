@@ -39,4 +39,12 @@ h1, h2, h3, h4 {
 .padding {
   padding: 32px 0;
 }
+.card {
+  box-shadow: 2px 2px 10px black;
+  transition: .5s;
+}
+.card:hover {
+  box-shadow: 0px 0px 0px black;
+  transition: .5s;
+}
 </style>

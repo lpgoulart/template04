@@ -112,7 +112,7 @@ export default {
 .arrow {
         position: relative;
         font-size: 40px;
-        animation-name: arrow-down;
+        animation-name: arrow-down, arrow-down2;
         animation-duration: 1s;
         animation-iteration-count: infinite;
     }
@@ -126,6 +126,17 @@ export default {
         }
         100% {
             top: -5px;
+        }
+    }
+    @keyframes arrow-down2 {
+        0% {
+            transform:scaleY(1);
+        }
+        50% {
+            transform:scaleY(.8);
+        }
+        100% {
+            transform:scaleY(1);
         }
     }
 

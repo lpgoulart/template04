@@ -11,7 +11,7 @@
 
                 <b-collapse id="nav-collapse" is-nav class="navbar-drop">
 
-                <b-navbar-nav class="ml-auto" style="background-color: rgba(255,255,255,1)">
+                <b-navbar-nav class="ml-auto" style="background-color: rgba(255,255,255,1);box-shadow:2px 2px 5px black">
 
                     <b-nav-item href="#/" class="navbar-item">HOME</b-nav-item>               
                     
@@ -49,7 +49,7 @@ export default {
 
 }
 .navbar-item:hover {
-    background-color: navy!important;
+    background-color: #2c3e50!important;
     color: white!important;
     transition: .5s;
 }   
